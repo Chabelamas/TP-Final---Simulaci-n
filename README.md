@@ -39,7 +39,7 @@ Para ejecutar la simulación, sigue estos pasos:
    git clone https://github.com/Chabelamas/TPFinal-Simulacion.git
    ```
 
-2. Navega a la carpeta del proyecto:
+2. Navega a la carpeta del proyecto
 
 3. Instala las dependencias necesarias:
     ```bash
