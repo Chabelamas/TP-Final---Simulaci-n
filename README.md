@@ -54,7 +54,7 @@ Para ejecutar la simulación, sigue estos pasos:
 ## 📈 Visualización de Resultados
 
 - **🔍 Análisis detallado**:  
-  Consulta el archivo [TP Final - Paper.pdf]() para obtener una descripción completa del desarrollo y los resultados de la simulación.
+  Consulta el archivo [TP Final - Paper.pdf](./TP%20Final%20-%20Paper.pdf) para obtener una descripción completa del desarrollo y los resultados de la simulación.
 
 - **🖼️ Diagrama visual**:  
   Revisa el [diagrama de simulación](./TP%20Final%20-%20Diagrama.png) para entender el flujo de trabajo.
