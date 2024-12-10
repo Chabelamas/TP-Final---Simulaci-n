@@ -223,14 +223,10 @@ def simulation(ip_config, te_config):
         # Identificar la zona del pedido entrante
         r = np.random.random()
         if r <= 0.768:
-            print("Llega un pedido a la zona metropolitana")
             ntm, stom, stem, stm = order_arrival(ntm, part_of_the_day, te_config, tcm, stom, stem, stm)
-
         elif r <= 0.996:
-            print("Llega un pedido a la zona urbana")
             ntu, stou, steu, stu = order_arrival(ntu, part_of_the_day, te_config, tcu, stou, steu, stu)
         else:
-            print("Llega un pedido a la zona semi-urbana")
             nts, stos, stes, sts = order_arrival(nts, part_of_the_day, te_config, tcs, stos, stes, sts)
     
     # Verificar si hay repartidores ociosos
