@@ -60,7 +60,7 @@ Para ejecutar la simulación, sigue estos pasos:
   Revisa el [diagrama de simulación](./TP%20Final%20-%20Diagrama.png) para entender el flujo de trabajo.
 
 - **🖥️ Presentación completa**:  
-  Explora la [presentación del trabajo práctico](./TP%20Final%20-%20Paper.pdf).
+  Explora la [presentación del trabajo práctico](./TP%20Final%20-%20Presentación.pdf) así como también en [Canva] (https://www.canva.com/design/DAGYotdxj_U/UGuTmGo40OnfHhKqIz4SoQ/edit?utm_content=DAGYotdxj_U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ---
 
